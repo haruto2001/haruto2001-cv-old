@@ -1,0 +1,29 @@
+title: 吉田 遥音 / YOSHIDA Haruto
+description: Tohoku NLP Groupの吉田遥音について紹介するページです．
+markdown: kramdown
+url: "https://haruto2001.github.io"
+image: /assetts/icon/icon_circle.png
+
+# for atom feed
+author:
+  name: 吉田 遥音 / YOSHIDA Haruto
+  email: yoshida.haruto.p1@dc.tohoku.ac.jp
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

@@ -1,0 +1,21 @@
+name: 吉田 遥音 / YOSHIDA Haruto
+dp: /assets/icons/icon_circle.png
+description: "
+  <p>
+    Tohoku NLP Groupの吉田遥音です．
+  </p>
+  <br/>
+  <p>
+    現在は自然言語処理の研究をしています．
+  </P>
+"
+email: yoshida.haruto.p1@dc.tohoku.ac.jp
+contact:
+  - title: email
+    url: mailto:yoshida.haruto.p1@dc.tohoku.ac.jp
+  - title: twitter
+    url: https://twitter.com/__shida2001__
+  - title: github
+    url: https://github.com/haruto2001
+  - title: linkedin
+    url: https://www.linkedin.com/in/%E9%81%A5%E9%9F%B3-%E5%90%89%E7%94%B0-20755b272/
