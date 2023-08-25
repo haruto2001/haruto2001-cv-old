@@ -2,12 +2,10 @@ name: 吉田 遥音 / YOSHIDA Haruto
 dp: /assets/icons/icon_circle.png
 description: "
   <p>
-    Tohoku NLP Groupの吉田遥音です．
+    I'm YOSHIDA Haruto, a member of Tohoku NLP Group.
+    <br>
+    I'm currently doing research in Natural Language Processing.
   </p>
-  <br/>
-  <p>
-    現在は自然言語処理の研究をしています．
-  </P>
 "
 email: yoshida.haruto.p1@dc.tohoku.ac.jp
 contact:
