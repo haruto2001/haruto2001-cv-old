@@ -8,6 +8,9 @@ console.log(categories)
 window.onload = function () {
   document.querySelectorAll(".category").forEach((category) => {
     category.addEventListener("click", function (e) {
+      // <a>タグによる遷移を無効化する
+      e.preventDefault();
+
       const posts = categories[e.target.innerText.replace(" ","_")];
       let html = ``
       posts.forEach(post=>{
